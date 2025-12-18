@@ -229,12 +229,6 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 - Open Source Community: For excellent ML libraries
 - Research Community: For fuel blending physics insights
 
-## Contact
-
-Shreyas Chhabra
-- LinkedIn: [Your LinkedIn Profile]
-- Email: [your.email@example.com]
-- Project Repository: [GitHub Repository URL]
 
 ---
 
