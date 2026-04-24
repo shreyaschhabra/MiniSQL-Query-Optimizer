@@ -1,0 +1,6 @@
+sqlparse
+sqlglot
+streamlit
+mysql-connector-python
+sqlalchemy
+python-dotenv
